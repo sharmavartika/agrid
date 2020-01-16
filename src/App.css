@@ -2,8 +2,7 @@
   background-color: #b9e21c;
   color: black;
 }
-#myGrid .ag-header-icon .ag-header-cell-menu-button{
-  color: black;
-  opacity: 10 !important;
-  transition: none  !important;
+span.ag-header-icon.ag-header-cell-menu-button {
+  opacity: 1 !important;
+  transition: none;
 }
